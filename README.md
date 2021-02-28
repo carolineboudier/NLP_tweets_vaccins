@@ -11,3 +11,8 @@ Le plan est donc le suivant :
 #### III) Première analyse et segmentation par LDA
 #### IV) Exploration des groupes obtenus via la LDA
 #### V) Conclusion et limites
+
+# Organisation
+
+- Le notebook Final_Extraction correspond au code permettant d'extraire des tweets via l'API Twitter. 
+- Le notebook NLP_Tweets_Vaccins correspond à l'analyse des tweets
